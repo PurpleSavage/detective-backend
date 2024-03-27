@@ -1,0 +1,1 @@
+from .personality import PERSONALITY_GENERATE_ANALIST
